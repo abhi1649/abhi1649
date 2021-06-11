@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi1649" alt="abhi1649" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/644672/screenshots/11278002/media/ab2d267b2a745b798b5ad7afc60bb8a4.jpg?compress=1&resize=1600x1200">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/904433/screenshots/4315494/contribute_github_dribbble.png?compress=1&resize=800x600">
 
 - 📫 How to reach me **abhimanyu1649@gmail.com**
 - - ⚡ Fun fact **I think I am funny XD**
