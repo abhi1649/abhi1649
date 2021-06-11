@@ -8,6 +8,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/644672/screenshots/11278002/media/ab2d267b2a745b798b5ad7afc60bb8a4.jpg?compress=1&resize=1600x1200">
 
 - 📫 How to reach me **abhimanyu1649@gmail.com**
+- - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
