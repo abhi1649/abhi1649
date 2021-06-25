@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi1649&theme=radical&row=1&column=7" alt="abhi1649" /></a> </p>
 
-<p align="center">-📫 How to reach me **abhimanyu1649@gmail.com**</P>
+<p align="center">📫 Reach me at- abhimanyu1649@gmail.com</P>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
