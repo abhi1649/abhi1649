@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1649&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1649" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi1649" alt="abhi1649" /></a> </p>
-<img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/1358460/screenshots/11896098/media/371c060cbef7357ff4e2f54a0408b064.jpg?compress=1&resize=1600x1200">
+<img align="right" alt="Coding" width="500" height="250" src="https://cdn.dribbble.com/users/1358460/screenshots/11896098/media/371c060cbef7357ff4e2f54a0408b064.jpg?compress=1&resize=1600x1200">
 - 📫 How to reach me **abhimanyu1649@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
