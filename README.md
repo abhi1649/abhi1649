@@ -1,85 +1,22 @@
+h1 align="center">Hi 👋, I'm Abhimanyu Rathore</h1>
+<h3 align="center">A Frontend and UX entusiast</h3>
 
-<table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><b>Daily-Coding-DS-ALGO-Practice :octocat: <br> [Daily, Coding, DS, ALGO, Practice]</b></td>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><a href="https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice"</a><b>Daily-Coding-DS-ALGO-Practice</b></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=flat&logo=github"/></td>
-            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Ayush7614/Daily-Coding-DS-ALGO-Practice?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </tbody>        
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1649&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1649" /> </p>
 
-<table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><b>Bundli-Frontend :octocat: <br> [Bundli, Frontend]</b></td>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><a href="https://github.com/Ayush7614/Bundli-Frontend"</a><b>Bundli-Frontend</b></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Ayush7614/Bundli-Frontend?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Ayush7614/Bundli-Frontend?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Ayush7614/Bundli-Frontend?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Ayush7614/Bundli-Frontend?style=flat&logo=github"/></td>
-            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Ayush7614/Bundli-Frontend?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </tbody>        
-</table>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi1649" alt="abhi1649" /></a> </p>
 
+- 📫 How to reach me **abhimanyu1649@gmail.com**
 
-
-### :zap: GitHub Stats
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush7614&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush7614&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush7614&theme=dracula" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhimanyu rathore(アビマンユ らティル)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu rathore(アビマンユ らティル)" height="30" width="40" /></a>
 </p>
 
-### :zap: Most used languages ❤️
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush7614&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush7614&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush7614&theme=dracula">
-</a>
-</p>
-    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1649&show_icons=true&locale=en&layout=compact" alt="abhi1649" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi1649&show_icons=true&locale=en" alt="abhi1649" /></p>
 
-![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush7614&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
-
- 
-
-
-
-<h2 align="center">📫 Reach out to me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/AyushKu38757918"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ayushknj3@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ayush_msdian/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://Ayush7614.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1649&" alt="abhi1649" /></p>
