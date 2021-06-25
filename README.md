@@ -1,6 +1,6 @@
-
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://khushboogoel01.github.io)
 <h1> align="center">Hi 👋, I'm Abhimanyu Rathore</h1>
-<h3 align="center">A Frontend and UX entusiast</h3>
+<h3> align="center">A Frontend and UX entusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1649&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1649" /> </p>
 
