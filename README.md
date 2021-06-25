@@ -8,7 +8,7 @@
 -📫 How to reach me **abhimanyu1649@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/abhimanyu-rathore-%E3%82%A2%E3%83%93%E3%83%9E%E3%83%B3%E3%83%A6-%E3%82%89%E3%83%86%E3%82%A3%E3%83%AB-5b9439166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu rathore(アビマンユ らティル)" height="30" width="40" /></a>
 </p>
 
