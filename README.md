@@ -1,7 +1,7 @@
 <p align="center">
      <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Ayush7614/blob/main/Hello.gif" /></a> 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhimanyu Rathore</h1>
-<h3 align="center">A Frontend and UX entusiast</h3>
+<h3 align="center">A Data entusiast</h3>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi1649&label=Profile%20views&color0e75b6&style=flat" alt="abhi1649" /> </p>
 
